@@ -1,121 +1,112 @@
-# Assalamu Alaikum, I'm Moshiur 👋
-
 <div align="center">
 
-### Senior Laravel Developer • Technical Lead
-**Building Scalable ERP • FinTech • SaaS • Enterprise Applications**
+# 👋 Md. Moshiur Rahman
 
-> *I build reliable software that solves real business problems.*
+### Senior Laravel Developer • Technical Lead • ERP & FinTech Engineer
+
+**Building scalable software, leading engineering teams, and turning complex business requirements into reliable products.**
 
 <p>
-<a href="https://moshiur1412.github.io/portfolio/">🌐 Portfolio</a> •
-<a href="https://linkedin.com/in/moshiur1412">LinkedIn</a> •
-<a href="https://medium.com/@moshiur1412">Medium</a> •
-<a href="mailto:moshiur1412@gmail.com">Email</a>
+  <a href="https://moshiur1412.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/moshiur1412">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@moshiur1412">
+    <img src="https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=moshiur1412&style=for-the-badge&color=0A66C2"/>
+<img src="https://img.shields.io/badge/Open_to-Opportunities-22c55e?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-I'm a Laravel developer with **10+ years of experience** building ERP, FinTech, and SaaS products. I enjoy designing scalable backend systems, optimizing performance, and leading engineering teams from idea to production.
+Over the past **10+ years**, I've built ERP, FinTech, and SaaS platforms used in production. My focus is on scalable backend architecture, system performance, clean engineering practices, and delivering software that creates measurable business value.
 
-### 🚀 Career Highlights
+### Highlights
 
-- Reduced a critical API response from **~12s to <1s** using Redis, indexing, and query optimization.
-- Built queue pipelines processing **40,000+ records** with retries and monitoring.
-- Designed a **multi-tenant ERP** covering Inventory, Warehouse, LC, HR, POS, CRM, and Reporting.
-- Led cross-functional engineering teams through architecture, mentoring, and delivery.
-- Currently building **BeeNoor**, a modular SaaS ERP ecosystem.
+- 🚀 Reduced a critical API from **~12 seconds to under 1 second**
+- ⚡ Built queue pipelines processing **40,000+ records**
+- 🏢 Designed multi-tenant ERP platforms
+- 👥 Technical Lead mentoring engineering teams
+- 🐝 Building **BeeNoor**, a modular ERP ecosystem
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Arsenal
 
 <div align="center">
 
 ### Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs"/>
 
 ### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind" /><br>
-
-<img src="https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,js"/><br/>
+<img src="https://img.shields.io/badge/Livewire-FF2D20?style=flat-square"/>
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square"/>
 
 ### Database & Cache
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
 
 ### DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,githubactions"/>
 
 ### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### AI & Productivity
-
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+### AI Tools
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-- 🐝 **BeeNoor** — Modular SaaS ERP ecosystem
-- 🏢 **Enterprise ERP** — Multi-tenant ERP platform
-- 💳 **FinTech Recharge Platform** — High-volume transaction processing
-- 📊 **Spectrum Pro** — SDLC & Project Management Platform
-
----
-
-## 📊 GitHub Analytics
-
-```md
-https://github-readme-stats.vercel.app/api?username=moshiur1412&show_icons=true&theme=github_dark&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur1412&layout=compact&theme=github_dark&hide_border=true
-
-https://streak-stats.demolab.com?user=moshiur1412&theme=github_dark&hide_border=true
-```
+| Project | Description |
+|---------|-------------|
+| 🐝 **BeeNoor** | Modular SaaS ERP ecosystem for Bangladesh |
+| 🏢 **Enterprise ERP** | Inventory, Warehouse, HR, POS, CRM & Reporting |
+| 💳 **FinTech Platform** | High-volume recharge & async processing |
+| 📊 **Spectrum Pro** | SDLC, Jira integration & resource planning |
 
 ---
 
-## 🌱 Open Source
+# 📊 GitHub Analytics
 
-- Laravel Packages
-- Developer Tools
-- Technical Documentation
-- BeeNoor Ecosystem
-- Software Engineering Notes
+> Add your GitHub Stats, Top Languages, Streak and Activity Graph here.
 
 ---
 
-## ✍️ Writing
+# 🌱 Current Focus
 
-I write about Laravel, PHP, ERP Architecture, System Design, Performance Optimization, and Real-world Engineering.
-
----
-
-## 🤝 Let's Build Something Great Together
-
-- 🌐 Portfolio
-- 💼 LinkedIn
-- ✍️ Medium
-- 📧 Email
+- BeeNoor ERP
+- Flutter Applications
+- AI-powered Business Solutions
+- Software Engineering Articles
+- Laravel & System Design
 
 ---
 
-> **"Good software isn't just about clean code—it's about solving the right business problems."**
+# 🏅 Certifications
+
+**15+ professional certifications** in SQL, AI, Cybersecurity, Software Engineering and Prompt Engineering.
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** moshiur1412@gmail.com
+
+> *"Good software isn't just about clean code—it's about solving the right business problems."*
