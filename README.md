@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://moshiur1412.github.io/portfolio/md-moshiur-rahman-profile.jpg" width="120" style="border-radius: 50%;" alt="Moshiur Rahman"/>
-
-# Hi there, I'm Moshiur 👋
+# Assalamu Alaikum, I'm Moshiur 👋
 
 ### Senior Laravel Developer & Technical Lead
 **ERP · FinTech · SaaS · Enterprise Systems**
@@ -22,13 +20,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Laravel Developer & Technical Lead** with **11+ years** of experience building high-performance backend systems — from scalable multi-tenant ERP platforms to high-volume FinTech transaction engines.
+I build backend systems that scale — and I care about the business impact behind every line of code.
 
-- 🚀 Reduced a **12-second API** to **under 1 second** (90%+ improvement) on a production FinTech system
-- ⚙️ Architected **queue-based workflows** processing **40k+ records** reliably at scale
-- 🏗️ Designed **multi-tenant ERP** covering inventory, LC management, warehouse, and advanced reporting
-- 👥 Led **cross-functional teams of 8+** engineers across engineering, design, and product
-- 🌱 Currently building **BeeNoor** — a SaaS ERP ecosystem for the Bangladeshi market
+Over the past **11+ years**, I've worked across ERP, FinTech, and SaaS products — designing architectures that handle millions of transactions, leading engineering teams, and shipping systems that actually hold up in production.
+
+- 🚀 Cut a **12-second API response down to under 1 second** (90%+ improvement) using Redis + smart indexing
+- ⚙️ Built queue-based pipelines that reliably process **40,000+ records** without breaking a sweat
+- 🏗️ Architected a **multi-tenant ERP** from scratch — inventory, LC management, warehouse, reporting, the whole thing
+- 👥 Led teams of **8+ engineers** across engineering, design, and product — code reviews, mentoring, delivery
+- 🐝 Currently building **BeeNoor** — a SaaS ERP ecosystem designed for the Bangladeshi market
 - 📍 Based in **Dhaka, Bangladesh**
 
 ---
@@ -58,11 +58,11 @@ I'm a **Senior Laravel Developer & Technical Lead** with **11+ years** of experi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-### Mobile (Learning)
+### Mobile (In Progress)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### AI & Tools
+### AI-Assisted Development
 ![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square)
@@ -73,26 +73,28 @@ I'm a **Senior Laravel Developer & Technical Lead** with **11+ years** of experi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=moshiur1412&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur1412&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moshiur1412&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur1412&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 
-<br/>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moshiur1412&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=moshiur1412&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🏆 Key Projects
+## 🏆 Things I've Built
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| 🏢 **Enterprise ERP** | Multi-tenant ERP with LC management, inventory, warehouse & workflow automation | Laravel, MySQL, Redis, React |
-| 💳 **Virtual Recharge System** | High-volume FinTech platform with async CSV import and real-time dashboards | Laravel Queues, Redis, MySQL |
-| 📊 **Spectrum Pro** | SDLC tracking dashboard with Jira integration and resource management | Laravel, Jira API, React |
-| 🐝 **BeeNoor (In Progress)** | SaaS ERP ecosystem for the Bangladeshi market (ERP, POS, HR, CRM, School) | Laravel, Livewire, Flutter |
+| 🏢 **Enterprise ERP** | Multi-tenant ERP covering LC management, inventory, warehouse & workflow automation for international trading | Laravel, MySQL, Redis, React |
+| 💳 **Virtual Recharge System** | High-volume FinTech platform — secure recharge workflows, async CSV import, real-time ops dashboards | Laravel Queues, Redis, MySQL |
+| 📊 **Spectrum Pro** | SDLC tracking platform bridging business & engineering — Jira-synced, with resource management & sprint analytics | Laravel, Jira API, React |
+| 🐝 **BeeNoor** *(active)* | SaaS ERP ecosystem for Bangladesh — ERP, POS, HR, CRM, School modules + an AI assistant named Noor | Laravel, Livewire, Flutter |
 
 ---
 
@@ -100,29 +102,29 @@ I'm a **Senior Laravel Developer & Technical Lead** with **11+ years** of experi
 
 <div align="center">
 
-`SQL & Databases` &nbsp; `Advanced Prompt Engineering` &nbsp; `Claude AI Fundamentals` &nbsp; `Cybersecurity Leadership` &nbsp; `Introduction to Cybersecurity — Cisco`
+`SQL & Databases` &nbsp;·&nbsp; `Advanced Prompt Engineering` &nbsp;·&nbsp; `Claude AI Fundamentals` &nbsp;·&nbsp; `Cybersecurity Leadership` &nbsp;·&nbsp; `Intro to Cybersecurity — Cisco`
 
-**15 certifications** from Anthropic · HackerRank · Simplilearn · Cisco · The Asia Foundation
+**15 certifications** across Anthropic · HackerRank · Simplilearn · Cisco · The Asia Foundation
 
-[→ View All Certificates](https://moshiur1412.github.io/portfolio/#certificates)
+[→ See all certificates](https://moshiur1412.github.io/portfolio/#certificates)
 
 </div>
 
 ---
 
-## 📝 Latest Writing
+## ✍️ I Write Too
 
-I write about Laravel, system design, performance engineering, and real project case studies.
+I document what I learn — real project case studies, performance engineering, Laravel internals, and system design lessons from production systems.
 
-📚 **181+ topics planned** across PHP/Laravel, Software Engineering, and Project Case Studies
+📚 **181+ topics** in the pipeline across PHP/Laravel, Software Engineering, and Case Studies
 
-[![Medium Articles](https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@moshiur1412)
+[![Read on Medium](https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@moshiur1412)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Talk
 
-I'm always open to discussing new projects, technical challenges, or senior engineering opportunities.
+Whether it's a new project, a technical problem worth solving, or just a conversation about building good software — I'm always up for it.
 
 <div align="center">
 
