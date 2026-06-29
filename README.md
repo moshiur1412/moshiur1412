@@ -1,75 +1,90 @@
 # Assalamu Alaikum, I'm Moshiur 👋
 
+<div align="center">
+
 ### Senior Laravel Developer • Technical Lead
 **Building Scalable ERP • FinTech • SaaS • Enterprise Applications**
 
-> *I enjoy building reliable software that solves real business problems—not just writing code.*
+> *I build reliable software that solves real business problems.*
+
+<p>
+<a href="https://moshiur1412.github.io/portfolio/">🌐 Portfolio</a> •
+<a href="https://linkedin.com/in/moshiur1412">LinkedIn</a> •
+<a href="https://medium.com/@moshiur1412">Medium</a> •
+<a href="mailto:moshiur1412@gmail.com">Email</a>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Laravel developer with **10+ years of experience** building ERP, FinTech, and SaaS applications. I enjoy designing scalable backend systems, improving application performance, and leading engineering teams from idea to production.
+I'm a Laravel developer with **10+ years of experience** building ERP, FinTech, and SaaS products. I enjoy designing scalable backend systems, optimizing performance, and leading engineering teams from idea to production.
 
-Highlights:
+### 🚀 Career Highlights
 
-- 🚀 Improved a critical reporting API from **~12 seconds to under 1 second** using Redis, indexing, and query optimization.
-- ⚙️ Built asynchronous queue pipelines processing **40,000+ records** with retries and monitoring.
-- 🏢 Designed and developed a **multi-tenant ERP platform** covering Inventory, Warehouse, Procurement, LC Management, HR, POS, CRM, and Reporting.
-- 👥 Led cross-functional engineering teams through architecture, code reviews, mentoring, and delivery.
-- 🐝 Currently building **BeeNoor**, a modular SaaS ERP ecosystem for businesses in Bangladesh.
-- 📍 Based in Dhaka, Bangladesh.
-
----
-
-## 🔭 Current Focus
-
-- 🐝 BeeNoor ERP Ecosystem
-- 🤖 AI-powered ERP Assistant
-- 📱 Flutter Mobile Applications
-- 📚 Technical Writing & Software Engineering Notes
-- 🚀 Laravel 12 / Livewire 4
+- Reduced a critical API response from **~12s to <1s** using Redis, indexing, and query optimization.
+- Built queue pipelines processing **40,000+ records** with retries and monitoring.
+- Designed a **multi-tenant ERP** covering Inventory, Warehouse, LC, HR, POS, CRM, and Reporting.
+- Led cross-functional engineering teams through architecture, mentoring, and delivery.
+- Currently building **BeeNoor**, a modular SaaS ERP ecosystem.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-**Backend:** PHP, Laravel, Node.js
+<div align="center">
 
-**Frontend:** React, Livewire, Inertia.js, Alpine.js, Tailwind CSS
+### Backend
 
-**Database:** MySQL, PostgreSQL, Redis
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
 
-**Cloud & DevOps:** Docker, AWS, Linux, Nginx
+### Frontend
 
-**Mobile:** Flutter, Dart
+<img src="https://skillicons.dev/icons?i=react,tailwind" /><br>
 
-**AI Tools:** ChatGPT, Claude, GitHub Copilot, Cursor, Gemini
+<img src="https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black" />
+
+### Database & Cache
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,githubactions" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+### AI & Productivity
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏢 Enterprise ERP
-A multi-tenant ERP platform with Inventory, Warehouse, Procurement, LC Management, HR, POS, CRM, Reporting, and Workflow Automation.
-
-### 💳 FinTech Recharge Platform
-High-volume recharge platform featuring Redis queues, asynchronous processing, CSV imports, dashboards, and secure transaction workflows.
-
-### 📊 Spectrum Pro
-Project and SDLC management platform with Jira integration, sprint analytics, and resource planning.
-
-### 🐝 BeeNoor (In Progress)
-A modern SaaS ERP ecosystem designed for Bangladeshi businesses with AI-powered assistance.
+- 🐝 **BeeNoor** — Modular SaaS ERP ecosystem
+- 🏢 **Enterprise ERP** — Multi-tenant ERP platform
+- 💳 **FinTech Recharge Platform** — High-volume transaction processing
+- 📊 **Spectrum Pro** — SDLC & Project Management Platform
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-> If GitHub Stats do not load, use these endpoints:
-
-```text
-https://github-readme-stats.vercel.app/api?username=moshiur1412&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true
+```md
+https://github-readme-stats.vercel.app/api?username=moshiur1412&show_icons=true&theme=github_dark&hide_border=true
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur1412&layout=compact&theme=github_dark&hide_border=true
 
@@ -80,44 +95,26 @@ https://streak-stats.demolab.com?user=moshiur1412&theme=github_dark&hide_border=
 
 ## 🌱 Open Source
 
-I enjoy sharing knowledge through:
-
-- Laravel packages
-- Technical documentation
-- Production-ready project templates
+- Laravel Packages
+- Developer Tools
+- Technical Documentation
+- BeeNoor Ecosystem
 - Software Engineering Notes
-- BeeNoor ecosystem
-
----
-
-## 🏅 Certifications
-
-15+ professional certifications across SQL, Databases, Prompt Engineering, AI, Cybersecurity, and Software Engineering.
 
 ---
 
 ## ✍️ Writing
 
-I write about:
-
-- Laravel
-- PHP
-- System Design
-- Software Architecture
-- ERP Development
-- Production Case Studies
-- Performance Optimization
-
-📚 Preparing 180+ technical articles.
+I write about Laravel, PHP, ERP Architecture, System Design, Performance Optimization, and Real-world Engineering.
 
 ---
 
 ## 🤝 Let's Build Something Great Together
 
-- 🌐 Portfolio: https://moshiur1412.github.io/portfolio/
-- 💼 LinkedIn: https://linkedin.com/in/moshiur1412
-- ✍️ Medium: https://medium.com/@moshiur1412
-- 📧 Email: moshiur1412@gmail.com
+- 🌐 Portfolio
+- 💼 LinkedIn
+- ✍️ Medium
+- 📧 Email
 
 ---
 
